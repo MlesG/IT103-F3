@@ -1,0 +1,47 @@
+* {
+
+    font-family: 'poppins', sans-serif;
+    background-color: #dbe9a4;
+    margin: 30;
+    padding: 0;
+    text-align: center;
+}
+
+body h1{
+    font-style: italic;
+    color: rgb(16, 10, 100);
+}
+
+#txtResult, #txtResult1, #txtResult2 {
+    font-weight: bold;
+    color: rgb(16, 10, 100);
+    font-size: 20px;
+}
+
+#btnReplaceAll, #btnSearchWord, #btnEnter {
+    background-color: rgb(212, 231, 231);
+    border: none;
+    color: rgb(16, 10, 100);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#txtInput, #txtInput1, #txtInput2 {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(16, 10, 100);
+    border-radius: 4px;
+}
+
+
+/*
+Author: Clyde Balaman
+Description: This is a demo HTML file for Part2A created by Clyde Balaman.
+*/
